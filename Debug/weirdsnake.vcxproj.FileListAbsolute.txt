@@ -1,0 +1,2 @@
+C:\Users\chris\source\repos\weirdsnake\Debug\weirdsnake.exe
+C:\Users\chris\source\repos\weirdsnake\Debug\weirdsnake.pdb

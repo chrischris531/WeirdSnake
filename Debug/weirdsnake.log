@@ -1,0 +1,13 @@
+﻿  weirdsnake.cpp
+C:\Users\chris\source\repos\weirdsnake\weirdsnake.cpp(65,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\source\repos\weirdsnake\weirdsnake.cpp(71,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\source\repos\weirdsnake\weirdsnake.cpp(172,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\source\repos\weirdsnake\weirdsnake.cpp(192,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\source\repos\weirdsnake\weirdsnake.cpp(245,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\source\repos\weirdsnake\weirdsnake.cpp(247,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\chris\source\repos\weirdsnake\weirdsnake.cpp(292,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\source\repos\weirdsnake\weirdsnake.cpp(361,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\source\repos\weirdsnake\weirdsnake.cpp(367,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\source\repos\weirdsnake\weirdsnake.cpp(394,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\source\repos\weirdsnake\weirdsnake.cpp(401,21): warning C4018: '<': signed/unsigned mismatch
+  weirdsnake.vcxproj -> C:\Users\chris\source\repos\weirdsnake\Debug\weirdsnake.exe
